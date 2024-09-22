@@ -1,18 +1,9 @@
-<!--![logo](https://media.licdn.com/dms/image/v2/D5622AQH-8m5qO36g_A/feedshare-shrink_800/feedshare-shrink_800/0/1698210096953?e=2147483647&v=beta&t=sYeIcy02Nvq5gYGdalRL-K0M0f0IXV-NS-HV6tdsnZE)-->
 
 <img src="https://media.licdn.com/dms/image/C5116AQHyKmJRGy89pg/profile-displaybackgroundimage-shrink_200_800/0/1586469590703?e=2147483647&v=beta&t=v7oFwWGLtTDZEuOEA2-TSaHXsZU6PxDbi7NnZMNcUUM" alt="LinkedIn Image" style="width: 900px; height: 300px; ">
 
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<!--     <img align="right" alt="coding...going on..." width="200" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" /> -->
-    <img align="right" alt="coding...going on..." width="400" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" />
-<!-- https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904 -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkumar234&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkumar234" /> </p>
 
